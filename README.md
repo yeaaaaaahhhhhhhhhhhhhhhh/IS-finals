@@ -4,6 +4,27 @@ Expert System for Chicken Diseases
 
 Flow of the System
 
+Veterinarian Interview Questions
+
+To create accurate and reliable rules, the following questions were asked to poultry veterinarians:
+
+1. What are the most common poultry diseases you usually encounter?
+
+
+2. What are the primary symptoms for each disease?
+
+
+3. Which symptoms should be prioritized during early detection?
+
+
+4. What treatments and medications are recommended for each disease?
+
+
+5. How can farmers prevent the spread of these diseases?
+
+
+6. How important is vaccination in poultry health?
+
 Step 1: Start
 
 The user opens the program (main.py).

@@ -6,8 +6,6 @@ Flow of the System
 
 Veterinarian Interview Questions
 
-To create accurate and reliable rules, the following questions were asked to poultry veterinarians:
-
 1. What are the most common poultry diseases you usually encounter?
 
 
